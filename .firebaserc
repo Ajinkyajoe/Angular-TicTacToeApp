@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tictactoe-8243c"
+  },
+  "targets": {
+    "tictactoe-8243c": {
+      "hosting": {
+        "TicTacToeApp": [
+          "tictactoe-8243c"
+        ]
+      }
+    }
+  }
+}
