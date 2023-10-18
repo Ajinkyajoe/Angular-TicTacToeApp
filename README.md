@@ -1,6 +1,8 @@
 # TicTacToeApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+A simple TicTacToe Game using angular and Nebular UI Kit (https://akveo.github.io/nebular/)
+
+I used Firebase to deploy it as a PWA app. This is the link: https://tictactoe-8243c.web.app/
 
 ## Development server
 
